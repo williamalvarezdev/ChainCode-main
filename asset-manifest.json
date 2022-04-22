@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f74c0a61.css",
+    "main.js": "/static/js/main.c9e3ca80.js",
+    "static/js/27.d6510548.chunk.js": "/static/js/27.d6510548.chunk.js",
+    "static/media/Transparent-Icon.png": "/static/media/Transparent-Icon.2f5804668f8e9022543f.png",
+    "static/media/Transparent-Logo.png": "/static/media/Transparent-Logo.8417701b825b60d59cbc.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.f74c0a61.css",
+    "static/js/main.c9e3ca80.js"
+  ]
+}
