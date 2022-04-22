@@ -10,6 +10,7 @@ html{
 .App-icon {
   height: 15vmin;
   pointer-events: none;
+  animation: App-logo-spin infinite 20s linear;
 }
 
 .App-logo {
