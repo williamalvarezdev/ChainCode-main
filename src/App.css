@@ -1,5 +1,5 @@
 html{
-  background-color: #383b42;
+  background-color: #cfcfcf;
 
 }
 
@@ -32,7 +32,8 @@ html{
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: black;
+  font-weight: 600;
 }
 
 
