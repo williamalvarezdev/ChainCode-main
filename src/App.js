@@ -11,7 +11,7 @@ function App() {
       
       <div> <img src={icon} className="App-icon" alt="logo" />
         <p>
-          Website coming soon!
+          Coming soon!
         </p></div>
       </header>
     </div>
